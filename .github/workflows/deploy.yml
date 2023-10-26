@@ -1,3 +1,9 @@
+# THIS WORKFLOW IS NOT NECESSARY!  Made for the purpose of practicing!
+
+# Vercel provides native integration with GitHub and it automatically deploys the application when code is pushed to the main branch.
+
+# However, if you need additional customizations, such as running specific build scripts or additional steps before deploying to Vercel, then you might want to keep or modify this workflow according to your specific requirements.
+
 # HOW TO DEPLOY, GET THE SECRETS AND IDs (to save on GitHub)
 # Deploying Your Vercel Application with GitHub Actions:
 # https://vercel.com/guides/how-can-i-use-github-actions-with-vercel
